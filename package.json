@@ -4,6 +4,9 @@
   "description": "JS implementation of Dijkstra's algorithm",
   "main": "dijkstra.js",
   "dependencies": {
+    "chai": "^3.0.0",
+    "jquery": "^2.1.4",
+    "mocha": "^2.2.5",
     "underscore": "^1.8.3"
   },
   "devDependencies": {},

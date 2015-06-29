@@ -1,0 +1,23 @@
+{
+  "name": "dijkstra",
+  "version": "1.0.0",
+  "description": "JS implementation of Dijkstra's algorithm",
+  "main": "dijkstra.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:batwood001/Dijkstra.git"
+  },
+  "author": "Brian Atwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batwood001/Dijkstra/issues"
+  },
+  "homepage": "https://github.com/batwood001/Dijkstra"
+}
